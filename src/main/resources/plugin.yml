@@ -1,0 +1,9 @@
+name: Super Smash Craft
+version: '${project.version}'
+main: fr.endide.supersmashcraft.SuperSmashCraft
+authors: [ Krfcm2 ]
+commands:
+  ssc:
+    description: Super Smash Craft command
+    usage: /ssc <reload|version>
+    aliases: [ supersmashcraft ]
